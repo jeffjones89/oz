@@ -1,1 +1,3 @@
-Hi I'm Toto, Dorothy's Dog. 
+Hi I'm Toto, Dorothy's Dog.
+
+Adding an example for diff.
